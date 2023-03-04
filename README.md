@@ -1,2 +1,2 @@
 # RockPaperScissorJS
-Playing with computer using JS
+Playing RPS with computer using JS
